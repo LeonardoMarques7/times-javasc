@@ -1,0 +1,42 @@
+<!DOCTYPE css>
+
+body {
+	margin: 0;
+}
+
+.tela-inteira{
+  min-height: 100vh;
+  font-size: 20px;
+  font-family: Calibri;
+  background-color: #202124;
+  text-decoration: none;
+}
+.links{
+	text-decoration: none;
+	color: #FFFFFF;
+}
+.cor-fundo{
+	background-color: #202124;
+}
+
+.tela-menu{
+  min-height: 100vh;
+  font-size: 26px;
+  font-family: Calibri;
+  font-style: italic;
+}
+
+section {
+  padding: 10px;
+  margin: 10px;
+  font-size: 20px;
+}
+
+.section-logo {
+  width: 100%;
+  max-width: 300px;
+  margin: 0 auto;
+  display: block;
+}
+
+</css>
