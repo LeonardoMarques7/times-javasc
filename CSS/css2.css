@@ -11,6 +11,12 @@ body {
   background-color: #202124;
   text-decoration: none;
 }
+.hinos{
+	border-width: size;
+	border-style: solid;
+	border-radius: 10px;
+	border-color: #FFFFFF;
+}
 .links{
 	text-decoration: none;
 	color: #FFFFFF;
