@@ -1,4 +1,4 @@
-<!DOCTYPE css>
+
 
 body {
 	margin: 0;
@@ -11,7 +11,7 @@ body {
   background-color: #202124;
   text-decoration: none;
 }
-.hino{
+.hinos{
 	border-width: size;
 	border-style: solid;
 	border-radius: 10px;
@@ -44,5 +44,3 @@ section {
   margin: 0 auto;
   display: block;
 }
-
-</css>
