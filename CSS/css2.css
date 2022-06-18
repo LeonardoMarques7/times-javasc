@@ -60,6 +60,7 @@ body {
   text-align: center;
 }
 .hinos {
+  padding: 0;
   border-width: size;
   border-style: solid;
   border-radius: 10px;
