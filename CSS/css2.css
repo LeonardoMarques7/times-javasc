@@ -62,7 +62,7 @@ body {
 .hinos {
   margin: 0px;
   padding: 0px;
-  border-width: size;
+  border-width: 50vh;
   border-style: solid;
   border-radius: 10px;
   border-color: #ffffff;
